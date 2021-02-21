@@ -31,6 +31,16 @@ h1{
     padding-top: 35px;
 }
  
+.title_para_1{
+    background-color: aquamarine;
+}
+.title_para_2{
+    background-color: fuchsia;
+}
+.title_para_3{
+    background-color: darkorange;
+}
+
 div{
     position: relative;
 }
